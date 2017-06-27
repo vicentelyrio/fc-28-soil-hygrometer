@@ -3,7 +3,7 @@
 
 #include "Arduino.h"
 
-class Moisture {
+class FC28 {
   public:
     config(int _sensorPin, int _threshold_min, int _threshold_max);
     int getRaw();

@@ -12,12 +12,11 @@ Sensor used to detect soil moisture.
 
 ![FC-28](https://cdn.instructables.com/FKM/46UR/IOOM3G6A/FKM46URIOOM3G6A.MEDIUM.jpg)  
 
-Take raw measurements using `getRaw` and set thresholds min and max if needed. The range are between 0 and 1023.
+Take raw measurements using `getRaw` and set min and max thresholds if necessary. The range is between 0 and 1023.
 
-Get percent reads using `getMoisture`
+Get percentage moisture reading by using `getMoisture`
 
-
-Use
+Example
 --
 
 ```

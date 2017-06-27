@@ -11,6 +11,6 @@ int FC28::getRaw() {
   return constrain(analogRead(sensorPin), threshold_min, threshold_max);
 }
 
-int FC28::getFC28() {
+int FC28::getMoisture() {
   return map(getRaw(), threshold_min, threshold_max, 100, 0);
 }
