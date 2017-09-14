@@ -1,11 +1,10 @@
 {
   "name": "FC-28 Hygrometer",
   "keywords": "sensor, hygrometer, moisture, ",
-  "description": "Arduino Library for Dallas Temperature ICs (DS18B20, DS18S20, DS1822, DS1820)",
-  "repository":
-  {
+  "description": "Arduino lib with configurable thresholds for FC-28 Hygrometer",
+  "repository": {
     "type": "git",
-    "url": "https://github.com/milesburton/Arduino-Temperature-Control-Library.git"
+    "url": "https://github.com/vicentelyrio/fc-28-soil-hygrometer.git"
   },
   "authors":
   [
