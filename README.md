@@ -1,7 +1,7 @@
 FC-28 Soil Hygrometer
 ================
 
-![FC-28](https://guideimg.alibaba.com/images/shop/2016/08/02/82/soil-hygrometer-detection-module-moisture-sensor-fc-28-dc-3.3v-5v_22620682.jpeg)  
+![FC-28]([https://www.diyengineers.com/wp-content/uploads/2021/01/Soil-Moisture-Sensor-Connections_Digital.png]))  
 
 Sensor used to detect soil moisture.
 - Operating voltage: 3.3V~5V.
@@ -9,8 +9,6 @@ Sensor used to detect soil moisture.
 - Panel PCB Dimension: 3cm x 1.5cm.
 - Soil Probe Dimension: 6cm x 3cm.
 - Cable Length: 21cm.
-
-![FC-28](https://cdn.instructables.com/FKM/46UR/IOOM3G6A/FKM46URIOOM3G6A.MEDIUM.jpg)  
 
 Take raw measurements using `getRaw` and set min and max thresholds if necessary. The range is between 0 and 1023.
 
