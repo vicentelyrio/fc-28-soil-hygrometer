@@ -1,7 +1,7 @@
 FC-28 Soil Hygrometer
 ================
 
-![FC-28]([https://www.diyengineers.com/wp-content/uploads/2021/01/Soil-Moisture-Sensor-Connections_Digital.png]))  
+![FC-28](https://www.diyengineers.com/wp-content/uploads/2021/01/Soil-Moisture-Sensor-Connections_Digital.png)
 
 Sensor used to detect soil moisture.
 - Operating voltage: 3.3V~5V.
